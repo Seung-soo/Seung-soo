@@ -5,6 +5,7 @@
 ## 1. DirectX 11 3D 팀 프로젝트 : Kingdom Hearts 3 모작
 
 저는 이 팀 프로젝트에서 팀장을 맡았습니다.
+  
 역할 : 프레임워크, 쉐이더, 카메라, 소환수, 충돌, 게임진행, 네비게이션 매쉬 툴, 콜라이더 툴, 파티클 툴
 
 [![Video Label](http://img.youtube.com/vi/OycNcgSUtcs/0.jpg)](https://youtu.be/OycNcgSUtcs)
