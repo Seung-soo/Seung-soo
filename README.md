@@ -31,7 +31,7 @@
 ## 1. DirectX 11 3D 개인 프로젝트 : Gunfire Reborn 모작
 
 
-[![Video Label](http://img.youtube.com/vi/1wvvcVvdXhs/0.jpg)](https://youtu.be/1wvvcVvdXhs)
+[![Video Label](http://img.youtube.com/vi/sBZBRzGYW58/0.jpg)](https://youtu.be/sBZBRzGYW58)
 
 
 #### 작업기간 : 2022.3.21 ~ 2022.06.21
@@ -39,7 +39,7 @@
 ## 2. WindowsAPI 2D 개인 프로젝트 : Spelunky 모작
 
 
-[![Video Label](http://img.youtube.com/vi/puAnbTglkIk/0.jpg)](https://youtu.be/puAnbTglkIk)
+[![Video Label](http://img.youtube.com/vi/SlVdaW7svFY/0.jpg)](https://youtu.be/SlVdaW7svFY)
 
 
 #### 작업기간 : 2021.12.03 ~ 2021.12.17
