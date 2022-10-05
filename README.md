@@ -8,8 +8,6 @@
   
 역할 : 프레임워크, 쉐이더, 카메라, 소환수, 충돌, 게임진행, 네비게이션 매쉬 툴, 콜라이더 툴, 파티클 툴
 
-[![Video Label](http://img.youtube.com/vi/OycNcgSUtcs/0.jpg)](https://youtu.be/OycNcgSUtcs)
-
 #### 작업기간 : 2022.06.25 ~ 2022.08.29
 ***
 ## 2. DirectX 9 SR(Software Rendering) 2.5D 팀 프로젝트 : TitanSouls 모작
