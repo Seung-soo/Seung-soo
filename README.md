@@ -21,6 +21,8 @@
 
 [![Video Label](http://img.youtube.com/vi/LidJ5ZCCAwQ/0.jpg)](https://youtu.be/LidJ5ZCCAwQ)
 
+코드 링크 : https://github.com/Seung-soo/TitanSouls-Portfolio
+
 #### 작업기간 : 2022.02.07 ~ 2022.03.14
 
 
@@ -35,6 +37,8 @@
 
 
 [![Video Label](http://img.youtube.com/vi/sBZBRzGYW58/0.jpg)](https://youtu.be/sBZBRzGYW58)
+
+코드 링크 : https://github.com/Seung-soo/GunfireReborn-Portfolio
 
 
 #### 작업기간 : 2022.3.21 ~ 2022.06.21
