@@ -11,6 +11,8 @@
 
 [![Video Label](http://img.youtube.com/vi/1cnbjvBT6JI/0.jpg)](https://youtu.be/1cnbjvBT6JI)
 
+코드 링크 : https://github.com/Seung-soo/Kingdomhearts3-Team-Portfolio
+
 #### 작업기간 : 2022.06.25 ~ 2022.08.29
 ***
 ## 2. DirectX 9 SR(Software Rendering) 2.5D 팀 프로젝트 : TitanSouls 모작
