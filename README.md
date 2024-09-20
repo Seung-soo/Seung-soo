@@ -1,4 +1,8 @@
 <div align=center>
+  
+# 경력 기술서 링크
+
+https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
 
 # 팀 포트폴리오 소개 영상입니다.
 
