@@ -3,7 +3,7 @@
 # 경력 기술서 링크
 
 https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
-
+***
 # 팀 포트폴리오 소개 영상입니다.
 
 ## 1. DirectX 11 3D 팀 프로젝트 : Kingdom Hearts 3 모작
