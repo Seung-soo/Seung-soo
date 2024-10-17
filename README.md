@@ -6,7 +6,7 @@ https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
 ***
 # 언리얼5 포트폴리오
 
-[![Video Label](http://img.youtube.com/vi/1cnbjvBT6JI/0.jpg)](https://youtu.be/1cnbjvBT6JI)
+[![Video Label](http://img.youtube.com/vi/1cnbjvBT6JI/0.jpg)](https://youtu.be/GN1pzDv0vq4)
 
 목표 : 게임 플레이 어빌리티 시스템을 활용하여 액션 게임 전투 구현 (진행중)
 
@@ -25,6 +25,11 @@ https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
 [![Video Label](http://img.youtube.com/vi/1cnbjvBT6JI/0.jpg)](https://youtu.be/1cnbjvBT6JI)
 
 코드 링크 : https://github.com/Seung-soo/Kingdomhearts3-Team-Portfolio
+
+DirectX 프로젝트 기술 정리 요약본 : [김승수_프로젝트_정리.pdf](https://github.com/user-attachments/files/17415648/_._.pdf)
+
+DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_정리.pdf](https://github.com/user-attachments/files/17415650/_._._.pdf)
+
 
 #### 작업기간 : 2022.06.25 ~ 2022.08.29
 ***
