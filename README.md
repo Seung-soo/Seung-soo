@@ -12,7 +12,7 @@ https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
 
 코드 링크 : https://github.com/Seung-soo/ActionGame
 
-작업기간 : 2024.10.09 ~ 2024.10.17
+#### 작업기간 : 2024.10.09 ~ 2024.10.17
 
 ***
 # 팀 포트폴리오 소개 영상입니다.
