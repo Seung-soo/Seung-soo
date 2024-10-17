@@ -6,7 +6,7 @@ https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
 ***
 # 언리얼5 포트폴리오
 
-[![Video Label](http://img.youtube.com/vi/GN1pzDv0vq4/0.jpg)]([https://youtu.be/1cnbjvBT6JI](https://youtu.be/GN1pzDv0vq4))
+[![Video Label](http://img.youtube.com/vi/GN1pzDv0vq4/0.jpg)](https://youtu.be/GN1pzDv0vq4)
 
 목표 : 게임 플레이 어빌리티 시스템을 활용하여 액션 게임 전투 구현 (진행중)
 
