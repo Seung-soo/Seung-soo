@@ -10,6 +10,8 @@ https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
 
 목표 : 게임 플레이 어빌리티 시스템을 활용하여 액션 게임 전투 구현 (진행중)
 
+구현 내용 : https://stingy-cheque-ff4.notion.site/Gameplay-Ability-System-Unreal-5-119ecf72aedb8025be3ff9c7fedabd0b?pvs=4
+
 코드 링크 : https://github.com/Seung-soo/ActionGame
 
 #### 작업기간 : 2024.10.09 ~ 2024.10.17
