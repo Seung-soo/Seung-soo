@@ -24,7 +24,7 @@ DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_�
 
 
 #### 작업기간 : 2022.06.25 ~ 2022.08.29
-***
+
 ## 2. DirectX 9 SR(Software Rendering) 2.5D 팀 프로젝트 : TitanSouls 모작
 
 역할 : 프레임워크, 플레이어, 카메라, 충돌, 전투시스템, 엔딩
@@ -42,7 +42,7 @@ DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_�
 ***
 # 개인 포트폴리오 소개 영상입니다.
 
-## 언리얼5 개인 프로젝트 : 게임 플레이 어빌리티 시스템을 활용하여 액션 게임 전투 구현
+## 1. 언리얼5 개인 프로젝트 : GAS 활용한 액션 게임 전투 구현
 
 [![Video Label](http://img.youtube.com/vi/GN1pzDv0vq4/0.jpg)](https://youtu.be/GN1pzDv0vq4)
 
@@ -52,9 +52,8 @@ DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_�
 
 #### 작업기간 : 2024.10.09 ~ 2024.10.17
 
-***
 
-## 1. DirectX 11 3D 개인 프로젝트 : Gunfire Reborn 모작
+## 2. DirectX 11 3D 개인 프로젝트 : Gunfire Reborn 모작
 
 
 [![Video Label](http://img.youtube.com/vi/sBZBRzGYW58/0.jpg)](https://youtu.be/sBZBRzGYW58)
@@ -64,9 +63,8 @@ DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_�
 
 #### 작업기간 : 2022.3.21 ~ 2022.06.21
 
-***
 
-## 2. WindowsAPI 2D 개인 프로젝트 : Spelunky 모작
+## 3. WindowsAPI 2D 개인 프로젝트 : Spelunky 모작
 
 
 [![Video Label](http://img.youtube.com/vi/SlVdaW7svFY/0.jpg)](https://youtu.be/SlVdaW7svFY)
