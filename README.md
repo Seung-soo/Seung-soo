@@ -3,18 +3,6 @@
 # 경력 기술서 링크
 
 https://stingy-cheque-ff4.notion.site/aef1ad5beb784ed4b60012b596620644?pvs=4
-***
-# 언리얼5 포트폴리오
-
-[![Video Label](http://img.youtube.com/vi/GN1pzDv0vq4/0.jpg)](https://youtu.be/GN1pzDv0vq4)
-
-목표 : 게임 플레이 어빌리티 시스템을 활용하여 액션 게임 전투 구현 (진행중)
-
-구현 내용 : https://stingy-cheque-ff4.notion.site/Gameplay-Ability-System-Unreal-5-119ecf72aedb8025be3ff9c7fedabd0b?pvs=4
-
-코드 링크 : https://github.com/Seung-soo/ActionGame
-
-#### 작업기간 : 2024.10.09 ~ 2024.10.17
 
 ***
 # 팀 포트폴리오 소개 영상입니다.
@@ -53,6 +41,16 @@ DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_�
 
 ***
 # 개인 포트폴리오 소개 영상입니다.
+
+## 언리얼5 개인 프로젝트 : 게임 플레이 어빌리티 시스템을 활용하여 액션 게임 전투 구현
+
+[![Video Label](http://img.youtube.com/vi/GN1pzDv0vq4/0.jpg)](https://youtu.be/GN1pzDv0vq4)
+
+구현 내용 : https://stingy-cheque-ff4.notion.site/Gameplay-Ability-System-Unreal-5-119ecf72aedb8025be3ff9c7fedabd0b?pvs=4
+
+코드 링크 : https://github.com/Seung-soo/ActionGame
+
+#### 작업기간 : 2024.10.09 ~ 2024.10.17
 
 
 ## 1. DirectX 11 3D 개인 프로젝트 : Gunfire Reborn 모작
