@@ -42,18 +42,7 @@ DirectX 프로젝트 기술 정리 풀버전 : [김승수_프로젝트_기술_�
 ***
 # 개인 포트폴리오 소개 영상입니다.
 
-## 1. 언리얼5 개인 프로젝트 : GAS 활용한 액션 게임 전투 구현
-
-[![Video Label](http://img.youtube.com/vi/GN1pzDv0vq4/0.jpg)](https://youtu.be/GN1pzDv0vq4)
-
-구현 내용 : https://stingy-cheque-ff4.notion.site/Gameplay-Ability-System-Unreal-5-119ecf72aedb8025be3ff9c7fedabd0b?pvs=4
-
-코드 링크 : https://github.com/Seung-soo/ActionGame
-
-#### 작업기간 : 2024.10.09 ~ 2024.10.17
-
-
-## 2. DirectX 11 3D 개인 프로젝트 : Gunfire Reborn 모작
+## 1. DirectX 11 3D 개인 프로젝트 : Gunfire Reborn 모작
 
 
 [![Video Label](http://img.youtube.com/vi/sBZBRzGYW58/0.jpg)](https://youtu.be/sBZBRzGYW58)
